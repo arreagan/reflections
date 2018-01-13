@@ -22,3 +22,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It allows you to see how the remote copy has diverged from the one on your computer.
 You can see changes that other users may have made.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could send files back and forth but it could easily become disorganized
+and it would be much harder to keep track of everything. 
